@@ -24,3 +24,9 @@
 
 ### 8. Average Selling Price by Brand and Fuel
 - *Key Insights*: Across brands, diesel vehicles tend to have the highest selling prices, especially in luxury brands, while petrol vehicles are also relatively high. CNG and LPG vehicles remain the more affordable options across all brands.
+
+
+
+Name     : Navyasri Bevara
+email    : bevaranavyasri2005@gmail.com
+linkedin :https://www.linkedin.com/in/navyasri-bevara-5a4414308/
